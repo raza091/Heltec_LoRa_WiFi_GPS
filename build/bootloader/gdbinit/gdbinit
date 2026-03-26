@@ -1,0 +1,2 @@
+source E:/ESP_IDF_Proj/Heltec_LoRa_WiFi_GPS/build/bootloader/gdbinit/symbols
+source E:/ESP_IDF_Proj/Heltec_LoRa_WiFi_GPS/build/bootloader/gdbinit/connect

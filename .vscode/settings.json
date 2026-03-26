@@ -5,5 +5,8 @@
     ],
     "idf.customExtraVars": {
         "IDF_TARGET": "esp32s3"
-    }
+    },
+    "C_Cpp.default.compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM5"
 }
